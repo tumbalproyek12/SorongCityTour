@@ -1,2 +1,2 @@
 # SorongCityTour
- Aplikasi Wisata Di kota Sorong Berbasis Web
+ Aplikasi Tempat Wisata Yang Berada Di kota Sorong Berbasis Web
