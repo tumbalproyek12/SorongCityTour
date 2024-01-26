@@ -55,7 +55,7 @@ $jumlahOrder = mysqli_num_rows($queryOrder);
                 <a class="btn app-btn-secondary" href="../php/conn-logout.php">Log Out</a>
               </div>
               <div class="app-utility-item app-user-dropdown dropdown">
-                <img src="../assets/images/user.png" alt="user profile" />
+                <img src="../favicon.ico" alt="user profile" />
               </div>
               <!--//app-user-dropdown-->
             </div>
